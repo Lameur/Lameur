@@ -15,3 +15,5 @@ switcher.addEventListener('click',function() {
 
     console.log('current class name: ' + className);
 });
+fonction(move)
+var move = 10
