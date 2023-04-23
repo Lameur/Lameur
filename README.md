@@ -12,6 +12,7 @@
 - 📫 How to reach me : **send me a mail to : lamaama@duck.com**
 
 ### Blogs posts
+[![Latest blog post workflow](https://github.com/Lameur/Lameur/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Lameur/Lameur/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
