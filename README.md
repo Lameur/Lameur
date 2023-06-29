@@ -14,6 +14,7 @@
 ### Blogs posts
 [![Latest blog post workflow](https://github.com/Lameur/Lameur/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/Lameur/Lameur/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Just to test my GitHub workflow.](https://dev.to/lameur/just-to-test-my-github-workflow-aj5)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
