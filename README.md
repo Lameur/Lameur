@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm @Lameur</h1>
 <h3 align="center">A passionate developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lameur&label=Profile%20views&color=ff0000&style=plastic" alt="lameur" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lameur" alt="lameur" /></a> </p>
 
 - 🔭 I’m currently working on : [Factory project](https://github.com/Lameur/Factory-Project)
