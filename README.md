@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on : [Factory project](https://github.com/Lameur/Factory-Project)
 
-- 🌱 I’m currently learning **C++, Java and HTML**
+- 🌱 I’m currently learning **C++, Java and Web development**
 
 - 📫 How to reach me : **send me a mail to : lamaama@duck.com**
 
