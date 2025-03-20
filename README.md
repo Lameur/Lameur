@@ -19,5 +19,6 @@
 
 <p>&nbsp;<img align="" src="https://github-readme-stats.vercel.app/api?username=lameur&show_icons=true&theme=shadow_red&locale=fr" alt="lameur" /></p>
 <p><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=lameur&show_icons=true&theme=shadow_red&locale=fr&layout=compact" alt="lameur" /></p>
+
 [![Lameur's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lameur\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Lameur&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&background=45%2CFF0000%2C000000&border=FFC437&ring=000000&dates=DCDCDCD0&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
