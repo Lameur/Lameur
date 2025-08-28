@@ -8,6 +8,9 @@ Am starting to develop at my own [fogejo](https://forgejo.the-division.duckdns.o
   <img src="https://github-readme-stats.vercel.app/api?username=Lameur&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shadow_red&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Lameur&locale=en&mode=daily&theme=shadow_red&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Lameur&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shadow_red&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Lameur&layout=compact&theme=shadow_red&locale=en&hide_border=false" alt="WakaTime stats"  />
   <img src="https://streak-stats.demolab.com?user=Lameur&hide_border=true&locale=fr&date_format=j%20M%5B%20Y%5D&background=45%2CFF0000%2C000000&border=FFC437&ring=000000&dates=DCDCDCD0&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakLabel=FFFFFF" alt="WakaTime stats"  />
 </div>
