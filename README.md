@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Lameur, and I'm a developer from France/Grenoble.</h2>
 
-Am starting to develop at my own [fogejo](https://forgejo.the-division.duckdns.org), I stop receving issue on GitHub. Every projects on the GitHub will be a mirror now.
+Am starting to develop at my own [fogejo](https://git.stalla.dev), I stop receving issue on GitHub. Every projects on the GitHub will be a mirror now.
 
 ###
 
